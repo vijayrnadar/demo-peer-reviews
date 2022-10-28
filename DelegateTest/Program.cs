@@ -8,14 +8,7 @@ namespace DelegateTest
     {
         static void Main()
         {
-            /* Stock stock = new Stock("THPW");
-             stock.Price = 27.10M;
-             // Register with the PriceChanged event
-             stock.PriceChanged += stock_PriceChanged;
-             stock.Price = 31.59M;*/
-
-            //LamdaTest lamdaTest = new LamdaTest();
-           // lamdaTest.ExecuteTest();
+            
            try
             {
                 Console.WriteLine("In parent try");
