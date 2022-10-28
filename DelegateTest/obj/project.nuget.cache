@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "k/if8KAj5c9rFjxTiDPn5y652TSl/37b3NUjMvfb/Wz8dQoY89QgZFunSeURvGgwyWBTy+Mz22aXCa7aLX6/ww==",
+  "success": true,
+  "projectFilePath": "D:\\VijayN\\MyRepo\\demo-peer-reviews\\DelegateTest\\DelegateTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vijay Nadar\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.26\\microsoft.netcore.app.host.win-x64.3.1.26.nupkg.sha512",
+    "C:\\Users\\Vijay Nadar\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Vijay Nadar\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Vijay Nadar\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
